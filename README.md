@@ -1,5 +1,5 @@
 
-## 🛠️ How to become a chad
+## 🛠️ My Neovim dotfiles for C/C++ and Python development
 
 #### If you aren't a vscode pomodoro ipad kid(RARE), make a backup of your current nvim and shared folder
 
