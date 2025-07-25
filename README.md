@@ -1,19 +1,19 @@
 
 ## 🛠️ My Neovim dotfiles for C/C++ and Python development
 
-#### If you aren't a vscode pomodoro ipad kid(RARE), make a backup of your current nvim and shared folder
+#### If you are a vscode pomodoro ipad kid, install Neovim
+
+```shell
+brew install neovim  # or whatever your OS pkg manager uses
+```
+
+#### If you already have, make a backup of your current nvim and shared folder
 
 ```shell
 mv ~/.config/nvim ~/.config/nvim.bak
 mv ~/.local/share/nvim ~/.local/share/nvim.bak
 mv ~/.local/state/nvim ~/.local/state/nvim.bak
 mv ~/.cache/nvim ~/.cache/nvim.bak
-```
-
-#### Install Neovim
-
-```shell
-brew install neovim  # or whatever your OS pkg manager uses
 ```
 
 #### Clone this repo
