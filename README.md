@@ -10,6 +10,11 @@ mv ~/.local/state/nvim ~/.local/state/nvim.bak
 mv ~/.cache/nvim ~/.cache/nvim.bak
 ```
 
+#### Install Neovim
+
+```shell
+brew install neovim  # or whatever your OS pkg manager uses
+```
 
 #### Clone this repo
 
